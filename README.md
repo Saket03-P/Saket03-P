@@ -1,6 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saket Palarapu
 ======================================================================================================================================
 
+[![HitCount](https://hits.dwyl.com/Saket03-P/Saket03-P.svg?style=flat-square&show=unique)](http://hits.dwyl.com/Saket03-P/Saket03-P)
+
 Computer Science Undergrad
 --------------------------
 
