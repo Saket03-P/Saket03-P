@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Undergrad
 --------------------------
 
-Here are some ideas to get you started:
 * 🌍  I'm based in Hyderabad
 * ✉️  You can contact me at [saket10r.palarapu@gmail.com](mailto:saket10r.palarapu@gmail.com)
 * 🧠  I'm currently learning Machine Learning
