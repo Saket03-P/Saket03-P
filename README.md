@@ -34,4 +34,20 @@ Computer Science Undergrad
 
 ### Socials
 
-<p align="left"> <a href="https://www.codepen.io/saket03p" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://discord.com/users/760475304559902770" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Saket03-P" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/saket_p_?igshid=ZDdkNTZiNTM=" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/saket-palarapu-270652204/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left">
+<a href="https://codepen.io/saket03p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="saket03p" height="30" width="40" /></a>
+<a href="https://discord.gg/760475304559902770" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="760475304559902770" height="30" width="40" /></a>
+<a href="https://www.github.com/Saket03-P" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="30" /></a>
+<a href="https://instagram.com/saket_p_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saket_p_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saket palarapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saket palarapu" height="30" width="40" /></a>
+</p>
+
+### Coding
+
+<p align="left">
+<a href="https://kaggle.com/saket03p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saket03p" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/saket03p" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="saket03p" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/saket03p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saket03p" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/saket03p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="saket03p" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/saket03p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saket03p" height="30" width="40" /></a>
+</p>
